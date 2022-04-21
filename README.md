@@ -2,8 +2,8 @@
 
 ## Something brief about me
 
-- I'm a computational biologist with a passion for development of tools to analyze big data, where I've mainly - so far - focused on spatial transcriptomics and single cell data. Currently, I'm a PhD student in the [spatial research group](https://www.spatialresearch.org/) headed by Joakim Lundeberg at SciLifeLab Stockholm (Sweden).
-- My interests cover a vast range of subjects, but to mention a few: Statstical Inference, Machine Learning, Dynamical Systems, and Programming (in general).
+- I'm a computational biologist with a passion for development of tools to analyze big data, where I've mainly - so far - focused on spatial transcriptomics and single cell data. I'm a recent PhD graduate from the [spatial research group](https://www.spatialresearch.org/) headed by Joakim Lundeberg at SciLifeLab Stockholm (Sweden).
+- My interests cover a vast range of subjects, but to mention a few: statstical inference, machine learning, Dynamical Systems, and programming (in general).
 - Pipelines - while invaluable - are the killer of all my joy.
 - Mountains, running and hiking are my big pleasures; if not in front of a computer, you'll most likely find me passing time outdoors.
 
